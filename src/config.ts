@@ -50,5 +50,5 @@ export const OREO_X_APP_KEY = '';
 export const OREO_COUPON_ID = '';
 
 // 开发： 
-// 生产： wx94b544638bc6bc0b
+// 生产： 
 export const OREO_APP_ID = '';
