@@ -45,10 +45,10 @@ export const OREO_TARGET = '';
 export const OREO_OPEN_TARGET = '';
 export const OREO_X_APP_KEY = '';
 
-// 开发： 200cb98860599df8fb73e8d9216dbb04
-// 生产： f8859a83edfff3850e37741f3cb51ccb
+// 开发： 
+// 生产： 
 export const OREO_COUPON_ID = '';
 
-// 开发： wx36d1c80272dc1dbc
+// 开发： 
 // 生产： wx94b544638bc6bc0b
 export const OREO_APP_ID = '';
